@@ -1,0 +1,1 @@
+This is a script to download and save the press releases of the AfD from their official webisite. 
